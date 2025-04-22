@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://raymondenriquez.com/sitemap.xml
