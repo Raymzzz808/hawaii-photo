@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from 'react';
 import {Fade, Slide,JackInTheBox, Bounce} from "react-awesome-reveal";
 import AboutSection from './AboutSection';
@@ -46,3 +47,11 @@ export default function About({
                </div>
                </div>
                )}
+=======
+export default function About(){
+    return(<> 
+        </>
+
+    );
+}
+>>>>>>> d116364 (Deploy built site)

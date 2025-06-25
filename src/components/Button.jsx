@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from "react";
 
 export default function Button({ btnName, btnLink,onClick,booking, ...props }) {
@@ -26,3 +27,14 @@ export default function Button({ btnName, btnLink,onClick,booking, ...props }) {
     </button>
   );
 }
+=======
+export default function Button({btnName,...props}){
+
+     return(
+        <button className="bg-white text-sky-900 
+        text-thin uppercase rounded-sm hover:bg-sky-900 
+        hover:text-white hover:text-bold"
+        {...props}> {btnName} </button>
+     )
+}
+>>>>>>> d116364 (Deploy built site)
