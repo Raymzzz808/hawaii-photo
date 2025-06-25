@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React,{useRef} from 'react';
 import Portfolio from './Portfolio';
 import Button from './Button';
@@ -58,9 +57,4 @@ export default function PhotoSessions({galleryImages,galleryIcon}){
    </PopUp>
     </>
     )
-=======
-export default function PhotoSessions(){
-    return(<>
-    </>);
->>>>>>> d116364 (Deploy built site)
 }

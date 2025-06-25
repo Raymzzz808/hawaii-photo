@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React from "react";
 import Gallery from "./Gallery";
 import {Fade,Slide} from 'react-awesome-reveal';
@@ -73,12 +72,4 @@ export default function Home({slideShowImages,welcomeContent,welcomeHeader,image
                                                                                 ))}
                                                                                 </div>
                                                                                 </>)}
-=======
-import Intro from './Intro';
-export default function Home(){
-    return(
-        <>
-        </>
-    )
-}
->>>>>>> d116364 (Deploy built site)
+
