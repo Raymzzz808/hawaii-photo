@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <script>
+      // Redirect to index.html for all routes
+      sessionStorage.redirect = location.pathname;
+      location.replace('/?redirect=' + encodeURIComponent(location.pathname));
+    </script>
+  </body>
+</html>
