@@ -294,7 +294,10 @@ export const exhibitsPublications = [
       `"Landscape 2023 International Photography Exhibition" - Glasgow Gallery. Glasgow, UK`,
       `"Botanicals" - LST Gallery`
     ]
-  }
+  },
+    {year: 2025,
+    entries:[`"YourSelfie!" - Cultural Center of Cape Code, Massachusetts.`]
+    },
 ];
 
 //BOOKS::::
